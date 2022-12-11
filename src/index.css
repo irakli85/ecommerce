@@ -5,6 +5,8 @@
 .nav,
 .product-items,
 .discount,
-.discount-items{
+.discount-items,
+.top-sell,
+.topsell-item{
   display: flex;
 }
